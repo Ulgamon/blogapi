@@ -1,0 +1,1 @@
+# Blog API project for "Django for APIs" book
